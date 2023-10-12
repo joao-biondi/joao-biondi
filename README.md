@@ -2,7 +2,7 @@
 Sou um estudante de programação, cursando desenvolvimento de software no CEPM ( Colégio Estadual Pedro Macedo ) Pretendo trabalhar como desenvolvedor front-end e web e estou estudando algumas tecnologias que estão abaixos! 
 <br><br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541998731154)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-a10315218/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-biondi/)
 <br><br>
 
 ![joao GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-biondi&show_icons=true&theme=dracula&count_private=true)
