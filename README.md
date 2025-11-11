@@ -7,7 +7,7 @@
 <div id="about" align="left">
   <h3>About Me</h3>
   <p>
-    I am a Back-end Developer and a Computer Science no segundo período. My initial exposure to Object-Oriented Programming ignited a profound interest in the Java ecosystem, leading me to focus my academic and personal projects on the development of resilient and scalable software solutions.
+    I am a Back-end Developer and a Computer Science no 2º período. My initial exposure to Object-Oriented Programming ignited a profound interest in the Java ecosystem, leading me to focus my academic and personal projects on the development of resilient and scalable software solutions.
   </p>
 </div>
 
