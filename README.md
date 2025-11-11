@@ -1,26 +1,24 @@
-## Olá! Eu sou o João Vitor 🖐️
-Sou um estudante de programação, cursando desenvolvimento de software no CEPM ( Colégio Estadual Pedro Macedo ) Pretendo trabalhar como desenvolvedor front-end e web e estou estudando algumas tecnologias que estão abaixos! 
-<br><br>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541998731154)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-biondi/)
-<br><br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>Hello! I'm João Vitor</h1>
+  <p><strong>Java Back-end Developer</strong></p>
+</div>
 
-![joao GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-biondi&show_icons=true&theme=dracula&count_private=true)
-![joao GitHub stat](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-biondi&theme=blue-green)
+<div id="about" align="left">
+  <h3>About Me</h3>
+  <p>
+    I am a Back-end Developer and a Computer Science no segundo período. My initial exposure to Object-Oriented Programming ignited a profound interest in the Java ecosystem, leading me to focus my academic and personal projects on the development of resilient and scalable software solutions.
+  </p>
+</div>
 
-## Tecnologias que eu estou estudando!
+<div id="social" align="left">
+  <h3>Connect with Me</h3>
+  <a href="https://www.linkedin.com/in/-joaoantunes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="mailto:jsantos.2025@alunos.utfpr.edu.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><a href="https://www.instagram.com/joao_biondi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="joao-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="joao-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
- <img align="center" alt="joao-php" height="55" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-plain.svg">
- <img align="center" alt="joao-mysql" src="https://github.com/joao-biondi/joao-biondi/assets/119629224/ece83e1c-f54d-4f26-b409-e333c0bfe148">
-</div><br/>
+</div>
 
-Apaixonado por tecnologia.
-
-Contato: joaovitorantunesdossantos98@gmail.com
+<div id="tech" align="left">
+  <h3>My Tech Stack</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,spring,c,docker,postgres,mysql,linux,git," alt="Ferramentas e Tecnologias"/>
+ </p>
